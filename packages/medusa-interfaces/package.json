@@ -35,7 +35,7 @@
     "typeorm": "0.x"
   },
   "dependencies": {
-    "medusa-core-utils": "^1.1.31"
+    "medusa-core-utils": "gatsby-dev"
   },
   "gitHead": "7770046479c361f375842a8605b15e5d7bc24624"
 }

@@ -32,12 +32,12 @@
     "test": "jest"
   },
   "peerDependencies": {
-    "medusa-interfaces": "1.x"
+    "medusa-interfaces": "gatsby-dev"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
-    "medusa-core-utils": "^0.1.27",
+    "medusa-core-utils": "gatsby-dev",
     "randomatic": "^3.1.1"
   },
   "gitHead": "41a5425405aea5045a26def95c0dc00cf4a5a44d"

@@ -14,11 +14,11 @@
     "@babel/core": "^7.7.5",
     "@babel/plugin-transform-typescript": "^7.13.0",
     "@babel/preset-typescript": "^7.12.7",
-    "babel-preset-medusa-package": "^1.1.19",
+    "babel-preset-medusa-package": "gatsby-dev",
     "cross-env": "^5.2.1",
     "eslint": "^6.8.0",
     "jest": "^25.5.2",
-    "medusa-test-utils": "^1.1.34",
+    "medusa-test-utils": "gatsby-dev",
     "pg": "^8.5.1",
     "ulid": "^2.3.0"
   },
@@ -30,13 +30,13 @@
   },
   "peerDependencies": {
     "@medusajs/medusa": "1.x",
-    "medusa-interfaces": "1.x"
+    "medusa-interfaces": "gatsby-dev"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "medusa-core-utils": "^1.1.31"
+    "medusa-core-utils": "gatsby-dev"
   },
   "gitHead": "7770046479c361f375842a8605b15e5d7bc24624"
 }

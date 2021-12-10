@@ -29,7 +29,7 @@
     "jest": "^25.5.2"
   },
   "peerDependencies": {
-    "medusa-interfaces": "1.x"
+    "medusa-interfaces": "gatsby-dev"
   },
   "dependencies": {
     "axios": "^0.20.0",

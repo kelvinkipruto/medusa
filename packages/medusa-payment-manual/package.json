@@ -25,7 +25,7 @@
     "cross-env": "^5.2.1",
     "eslint": "^6.8.0",
     "jest": "^25.5.2",
-    "medusa-test-utils": "^1.1.34"
+    "medusa-test-utils": "gatsby-dev"
   },
   "scripts": {
     "build": "babel src -d . --ignore **/__tests__",
@@ -34,7 +34,7 @@
     "test": "jest"
   },
   "peerDependencies": {
-    "medusa-interfaces": "1.x"
+    "medusa-interfaces": "gatsby-dev"
   },
   "gitHead": "7770046479c361f375842a8605b15e5d7bc24624"
 }

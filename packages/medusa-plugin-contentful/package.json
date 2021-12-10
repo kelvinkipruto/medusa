@@ -32,15 +32,15 @@
     "test": "jest"
   },
   "peerDependencies": {
-    "medusa-interfaces": "1.x"
+    "medusa-interfaces": "gatsby-dev"
   },
   "dependencies": {
     "@babel/plugin-transform-classes": "^7.9.5",
     "body-parser": "^1.19.0",
     "contentful-management": "^5.27.1",
     "express": "^4.17.1",
-    "medusa-core-utils": "^1.1.31",
-    "medusa-test-utils": "^1.1.34",
+    "medusa-core-utils": "gatsby-dev",
+    "medusa-test-utils": "gatsby-dev",
     "redis": "^3.0.2"
   },
   "gitHead": "7770046479c361f375842a8605b15e5d7bc24624"

@@ -1,7 +1,10 @@
 {
   "name": "root",
   "private": true,
-  "workspaces": ["packages/*"],
+  "workspaces": {
+    "packages": ["packages/*"],
+    "nohoist": ["**/medusa-core-utils"]
+  },
   "devDependencies": {
     "@babel/core": "^7.12.7",
     "@babel/eslint-parser": "^7.15.8",

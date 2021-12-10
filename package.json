@@ -2,8 +2,7 @@
   "name": "root",
   "private": true,
   "workspaces": {
-    "packages": ["packages/*"],
-    "nohoist": ["**/medusa-core-utils"]
+    "packages": ["packages/*"]
   },
   "devDependencies": {
     "@babel/core": "^7.12.7",

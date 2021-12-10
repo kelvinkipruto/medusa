@@ -61,6 +61,6 @@
     "swagger-inline": "^3.2.2"
   },
   "resolutions": {
-    "**/typescript": "4.5.2"
+    "**/tsdx/typescript": "4.5.2"
   }
 }

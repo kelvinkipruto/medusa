@@ -7031,13 +7031,13 @@ __metadata:
   linkType: hard
 
 "file-type@npm:^16.5.3":
-  version: 16.5.3
-  resolution: "file-type@npm:16.5.3"
+  version: 16.5.4
+  resolution: "file-type@npm:16.5.4"
   dependencies:
     readable-web-to-node-stream: ^3.0.0
     strtok3: ^6.2.4
     token-types: ^4.1.1
-  checksum: 4c4ae65eed3fe05a5e21cd461c1b8a246af9b02964375584bd5bed67fc0d5ad7ee873c102838871e63f53aace761ecb8f642e0dc98ca9c5ba57f43c674fd2251
+  checksum: a6c9ab8bc05bc9c212bec239fb0d5bf59ddc9b3912f00c4ef44622e67ae4e553a1cc8372e9e595e14859035188eb305d05d488fa3c5c2a2ad90bb7745b3004ef
   languageName: node
   linkType: hard
 

@@ -4353,7 +4353,7 @@ __metadata:
     bull: ^3.12.1
     chokidar: ^3.4.2
     class-transformer: ^0.5.1
-    class-validator: ^0.13.1
+    class-validator: ^0.14.0
     connect-redis: ^5.0.0
     cookie-parser: ^1.4.4
     core-js: ^3.6.5
@@ -8268,6 +8268,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/validator@npm:^13.7.10":
+  version: 13.7.10
+  resolution: "@types/validator@npm:13.7.10"
+  checksum: 986ac935937603b71d2dd0f3bfd72bbfddb861303ba7767d8a3bccd2eb6a29f3af3dae8d349e8b2465b445e08ee8e1bc3d21d009bd322323ba897dea79298634
+  languageName: node
+  linkType: hard
+
 "@types/webpack-env@npm:^1.16.0":
   version: 1.17.0
   resolution: "@types/webpack-env@npm:1.17.0"
@@ -12070,13 +12077,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"class-validator@npm:^0.13.1":
-  version: 0.13.2
-  resolution: "class-validator@npm:0.13.2"
+"class-validator@npm:^0.14.0":
+  version: 0.14.0
+  resolution: "class-validator@npm:0.14.0"
   dependencies:
-    libphonenumber-js: ^1.9.43
+    "@types/validator": ^13.7.10
+    libphonenumber-js: ^1.10.14
     validator: ^13.7.0
-  checksum: e7a1a318967229582b25da9c3b81e316627b014640968824b00bf001f4d79101017b91c59cb3f2c8c0922c4446b5a1114c27ba91aae1c1f109e0ad4d504dfcd5
+  checksum: 1f7c34052f0c342b1d27c5aec7c42b646bb77a56874acc0d8003e2ad8f0294e7da18b43e9caaac8e8817cbb309cf9f14bcebe4611994390ca4818f3b393783dc
   languageName: node
   linkType: hard
 
@@ -22411,10 +22419,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"libphonenumber-js@npm:^1.9.43":
-  version: 1.10.8
-  resolution: "libphonenumber-js@npm:1.10.8"
-  checksum: 55c7805b41c9066f1ee0754eef448f4575f04286eedaefa1e0b0d878b199fb7bd1fbadc3a5ec61c5bbf2db54641264413273767d8cec1c9faeaa297a1da9a502
+"libphonenumber-js@npm:^1.10.14":
+  version: 1.10.18
+  resolution: "libphonenumber-js@npm:1.10.18"
+  checksum: 3987bda861b52990f525622c15ae5c72894a66a9319e8b93153da1f7f3a53570d928c8517831b320ad315fe3c008ca17ee2253e41ba497af8bd84e260ff21135
   languageName: node
   linkType: hard
 
@@ -23564,7 +23572,7 @@ __metadata:
     "@babel/preset-typescript": ^7.16.0
     "@babel/runtime": ^7.13.9
     class-transformer: ^0.5.1
-    class-validator: ^0.13.1
+    class-validator: ^0.14.0
     cross-env: ^5.2.1
     jest: ^25.5.2
     joi: ^17.3.0

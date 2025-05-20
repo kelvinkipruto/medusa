@@ -6146,7 +6146,7 @@ __metadata:
     jest: ^29.7.0
     jsonwebtoken: ^9.0.2
     lodash: ^4.17.21
-    multer: ^1.4.5-lts.1
+    multer: ^2.0.0
     node-schedule: ^2.1.1
     qs: ^6.11.2
     request-ip: ^3.3.0
@@ -25841,9 +25841,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"multer@npm:^1.4.5-lts.1":
-  version: 1.4.5-lts.1
-  resolution: "multer@npm:1.4.5-lts.1"
+"multer@npm:^2.0.0":
+  version: 2.0.0
+  resolution: "multer@npm:2.0.0"
   dependencies:
     append-field: ^1.0.0
     busboy: ^1.0.0
@@ -25852,7 +25852,7 @@ __metadata:
     object-assign: ^4.1.1
     type-is: ^1.6.4
     xtend: ^4.0.0
-  checksum: 4c6c91e93e510c99e791b6520e3e2f4a227a57f4f509427ff7f3a6f4cc0b4b09ad77c475f629c12f7ae01dba11645b2bd6568877cab775de8bf853b0a67259b4
+  checksum: b1bb5faead3193f2bad5dc1dd3a89c195b3b95a178253d81636efee07538df761515b59fcd508037b8c0472a087f33d13002ed76e167a00ef7d32694e3038138
   languageName: node
   linkType: hard
 

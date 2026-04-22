@@ -58,7 +58,7 @@
     "date-fns": "^3.6.0",
     "i18next": "23.7.11",
     "i18next-browser-languagedetector": "7.2.0",
-    "i18next-http-backend": "2.4.2",
+    "i18next-http-backend": "3.0.5",
     "lodash": "^4.17.21",
     "match-sorter": "^6.3.4",
     "motion": "^11.15.0",

@@ -33,7 +33,7 @@
   "license": "MIT",
   "devDependencies": {
     "@mikro-orm/core": "6.4.3",
-    "@mikro-orm/knex": "6.4.3",
+    "@mikro-orm/knex": "6.6.14",
     "@mikro-orm/migrations": "6.4.3",
     "@mikro-orm/postgresql": "6.4.3",
     "@swc/core": "^1.7.28",
@@ -73,7 +73,7 @@
   },
   "peerDependencies": {
     "@mikro-orm/core": "6.4.3",
-    "@mikro-orm/knex": "6.4.3",
+    "@mikro-orm/knex": "6.6.14",
     "@mikro-orm/migrations": "6.4.3",
     "@mikro-orm/postgresql": "6.4.3",
     "awilix": "^8.0.1",

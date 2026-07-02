@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "csv-parse": "^5.6.0",
-    "json-2-csv": "^5.5.4"
+    "json-2-csv": "^5.5.11"
   },
   "peerDependencies": {
     "@medusajs/framework": "2.8.3",

@@ -6089,7 +6089,7 @@ __metadata:
     csv-parse: ^5.6.0
     expect-type: ^0.20.0
     jest: ^29.7.0
-    json-2-csv: ^5.5.4
+    json-2-csv: ^5.5.11
     pg: ^8.13.0
     rimraf: ^5.0.1
     typescript: ^5.6.2
@@ -19574,6 +19574,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"deeks@npm:3.2.1":
+  version: 3.2.1
+  resolution: "deeks@npm:3.2.1"
+  checksum: 502e999e9ca3aa9b2e740d99bbb20b3654e8e1b5398c5cb61419700ee26ecf1a037de4dd89d40a93ef324442b303adce446cc3e584258d8abb271cd891943357
+  languageName: node
+  linkType: hard
+
 "deep-eql@npm:^5.0.1":
   version: 5.0.2
   resolution: "deep-eql@npm:5.0.2"
@@ -19856,6 +19863,13 @@ __metadata:
   version: 4.1.1
   resolution: "doc-path@npm:4.1.1"
   checksum: 5a908c4d0c8431fa60349cad1d5f0775cf9825d4d85e6bd7f55925c01d6278be8dd04f6858b8f8fdc8ea992a63545595ea77a2282551ff95538608f382b46f8a
+  languageName: node
+  linkType: hard
+
+"doc-path@npm:4.1.4":
+  version: 4.1.4
+  resolution: "doc-path@npm:4.1.4"
+  checksum: 988b79b64b4857ab7c2fc59e6afd6624d055bce71e095316b6f021e08763db0c537c112b2459f942e7374b84978ab3c1c57625ab5776ba48518efb2bc8a9d32b
   languageName: node
   linkType: hard
 
@@ -25130,13 +25144,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"json-2-csv@npm:^5.5.4":
-  version: 5.5.4
-  resolution: "json-2-csv@npm:5.5.4"
+"json-2-csv@npm:^5.5.11":
+  version: 5.5.11
+  resolution: "json-2-csv@npm:5.5.11"
   dependencies:
-    deeks: 3.1.0
-    doc-path: 4.1.1
-  checksum: 1ecfbdb93aa3079e943bcaad280547a17240a9ecf13915a843856378612899c7c612c26ae14272e2b3372f8bccc2ecfef54530e05bcda6ae8de1b616b4b0296a
+    deeks: 3.2.1
+    doc-path: 4.1.4
+  checksum: d83a3494f791e5018778d3ce05f4bd20a190f40ea217ebf19e66e22be373fd56890b3100369549ac9814dee1bc9b431a0971f136434dc5468e2355d9fb324818
   languageName: node
   linkType: hard
 
